@@ -1,0 +1,7 @@
+D:\C#\uniPrac\Week2\SwinAdventureTest\SwinAdventures\SwinAdventures\bin\Debug\SwinAdventures.exe.config
+D:\C#\uniPrac\Week2\SwinAdventureTest\SwinAdventures\SwinAdventures\bin\Debug\SwinAdventures.exe
+D:\C#\uniPrac\Week2\SwinAdventureTest\SwinAdventures\SwinAdventures\bin\Debug\SwinAdventures.pdb
+D:\C#\uniPrac\Week2\SwinAdventureTest\SwinAdventures\SwinAdventures\obj\Debug\SwinAdventures.csproj.AssemblyReference.cache
+D:\C#\uniPrac\Week2\SwinAdventureTest\SwinAdventures\SwinAdventures\obj\Debug\SwinAdventures.csproj.CoreCompileInputs.cache
+D:\C#\uniPrac\Week2\SwinAdventureTest\SwinAdventures\SwinAdventures\obj\Debug\SwinAdventures.exe
+D:\C#\uniPrac\Week2\SwinAdventureTest\SwinAdventures\SwinAdventures\obj\Debug\SwinAdventures.pdb
